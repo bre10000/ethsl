@@ -1,0 +1,7 @@
+space
+1
+3
+2
+del
+4
+nothing
